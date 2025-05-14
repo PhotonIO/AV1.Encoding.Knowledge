@@ -14,7 +14,7 @@ https://www.techpowerup.com/forums/threads/amd-h-265-destroys-av1-in-obs.326884/
 ## *
 - [Is hardware av1 encoding (with amd's rdna3) supposed to be more efficient than software encoded x265?](https://www.reddit.com/r/AV1/comments/17dn8x3/is_hardware_av1_encoding_with_amds_rdna3_supposed/)
 
-## Library Management
+## Media Library Management
 in: Reddit/unRAID [Codec Showdown: AV1 vs h265 in Unmanic (Real-World Transcode Results)](https://www.reddit.com/r/unRAID/comments/1klcuj6/codec_showdown_av1_vs_h265_in_unmanic_realworld/)
 
 # Guide:
