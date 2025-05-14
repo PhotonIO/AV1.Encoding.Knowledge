@@ -10,5 +10,4 @@ sch: https://search.brave.com/search?q=SVT-AV1
 # Guide:
 - [Highly-Efficient SVT-AV1-based Solutions for VOD Applications](https://youtu.be/LQJ83tTIKMc)
 - [SVT-AV1 | FFMPEG encoding of AV1 video](https://youtu.be/ci-PfojbGfg)
-- [AV1 Rendering 101: Why Grain is the Most Important Setting (Handbrake & FFmpeg)](https://youtu.be/5IV36FMpLqY)
  
