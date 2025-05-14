@@ -11,4 +11,4 @@ https://www.techpowerup.com/forums/threads/amd-h-265-destroys-av1-in-obs.326884/
 >Two screen shots
 >
 >This is from a software encode using SVT-AV1 and using variance boost and tune 0 and preset 4
-->I agree something looks off. H265 is notoriously bad when it comes to dark scenes. AV1 is significantly better in that area. Overall AV1 has come a long way and I prefer it over H265 any day. Even though I have done thousands of H265 encodes using AVI-synth over the years. With a 9950x using avx-512 you can sometimes encode AV1 at > 100 fps using preset 5 and variance boost in 1080p.
+- >I agree something looks off. H265 is notoriously bad when it comes to dark scenes. AV1 is significantly better in that area. Overall AV1 has come a long way and I prefer it over H265 any day. Even though I have done thousands of H265 encodes using AVI-synth over the years. With a 9950x using avx-512 you can sometimes encode AV1 at > 100 fps using preset 5 and variance boost in 1080p.
