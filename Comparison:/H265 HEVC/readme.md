@@ -1,5 +1,5 @@
 # Discuss:
-- https://www.reddit.com/r/unRAID/comments/1klcuj6/codec_showdown_av1_vs_h265_in_unmanic_realworld/
+- in: Reddit/unRAID [Codec Showdown: AV1 vs h265 in Unmanic (Real-World Transcode Results)](https://www.reddit.com/r/unRAID/comments/1klcuj6/codec_showdown_av1_vs_h265_in_unmanic_realworld/)
 
 ## [AMD H.265 destroys AV1 in OBS ??? | TechPowerUp Forums](https://www.techpowerup.com/forums/threads/amd-h-265-destroys-av1-in-obs.326884/)
 quote:
